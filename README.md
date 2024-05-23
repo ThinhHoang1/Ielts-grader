@@ -5,9 +5,6 @@
 
 Welcome to the IELTS Writing Grader project! This is a Streamlit application that provides automated feedback and grading for IELTS essays using the Gemini API for natural language processing.
 
-
-Welcome to the IELTS Writing Grader project! This is a Streamlit application that provides automated feedback and grading for IELTS essays using the Gemini API for natural language processing.
-
 ## Getting Started
 
 ### Prerequisites
