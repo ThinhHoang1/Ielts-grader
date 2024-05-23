@@ -1,6 +1,6 @@
 # IELTS Writing Grader
 
-![Demo App](demo_app.png)
+![Demo App]([demo_app.png](https://github.com/ThinhHoang1/Ielts-grader/blob/master/Demo_App.png))
 
 Welcome to the IELTS Writing Grader project! This is a Streamlit application that provides automated feedback and grading for IELTS essays using the Gemini API for natural language processing.
 
